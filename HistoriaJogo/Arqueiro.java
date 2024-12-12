@@ -92,8 +92,8 @@ public class Arqueiro implements Personagem {
             this.vida += 10;
             System.out.println("Você usou uma Poção de Vida! Vida aumentada em 10.");
         } else if (tipoPoção.equals("Poção de Força")) {
-            this.forca += 3;
-            System.out.println("Você usou uma Poção de Força! Força aumentada em 3.");
+            this.forca += 10;
+            System.out.println("Você usou uma Poção de Força! Força aumentada em 10.");
         }
     }
 }
