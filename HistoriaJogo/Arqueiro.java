@@ -2,10 +2,6 @@ package HistoriaJogo;
 
 import java.util.Scanner;
 
-/**
- *
- * @author MATHEUSBRAGAMATTOS
- */
 public class Arqueiro implements Personagem {
     private String nome;
     private int forca;
