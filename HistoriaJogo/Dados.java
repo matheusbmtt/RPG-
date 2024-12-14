@@ -1,9 +1,5 @@
 package HistoriaJogo;
 
-/**
- *
- * @author MATHEUSBRAGAMATTOS
- */
 import java.util.Random;
 
 public class Dados {
